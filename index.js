@@ -113,7 +113,7 @@ class Instructor {
 */
 class Student {
 
-}
+} 
 
 /*
   TASK 6
